@@ -1,0 +1,243 @@
+【参考文献】
+ 
+[1] 马颂德. 计算机视觉: 计算理论与算法基础. 北京: 科学出版社 [M]. 1998.
+ 
+[2] 宋智礼. 图像配准技术及其应用的研究 [D]. 复旦大学, 2010.
+ 
+[3] 马佳义. 基于非参数模型的点集匹配算法研究 [D]. 华中科技大学, 2014.
+ 
+[4] 于伟. 基于卷积神经网络特征的图像匹配研究 [D]. 哈尔滨工业大学, 2017.
+ 
+[5] Zitova B, Flusser J. Image registration methods: a survey[J]. Image and vision computing, 2003, 21(11): 977–1000.
+ 
+[6] Dawn S, Saxena V, Sharma B. Remote sensing image registration techniques: A survey[C]. International Conference on Image and Signal Processing. 2010: 103– 112.
+ 
+[7] Pratt W K. Digital image processing john wiley & sons[J]. Inc., New York, 1991.
+ 
+[8] Viola P, Wells iii W M. Alignment by maximization of mutual information[J]. International journal of computer vision, 1997, 24(2): 137–154.
+ 
+[9] Barnea D I, Silverman H F. A class of algorithms for fast digital image registration[J]. IEEE transactions on Computers, 1972, 100(2): 179–186.
+ 
+[10] Bracewell R N, Bracewell R N. The Fourier transform and its applications: Vol 31999[M]. [S.l.]: McGraw-Hill New York, 1986.
+ 
+[11] De castro E, Morandi C. Registration of translated and rotated images using finite Fourier transforms[J]. IEEE Transactions on pattern analysis and machine intelligence, 1987(5): 700–703.
+ 
+[12] Chen Q-S, Defrise M, Deconinck F. Symmetric phase-only matched filtering of Fourier-Mellin transforms for image registration and recognition[J]. IEEE Transactions on Pattern Analysis & Machine Intelligence, 1994(12): 1156–1168.
+ 
+[13] Tuytelaars T, Mikolajczyk K, others. Local invariant feature detectors: a survey[J]. Foundations and trends® in computer graphics and vision, 2008, 3(3): 177–280.
+ 
+[14] Harris C G, Stephens M, others. A combined corner and edge detector.[C]. Alvey vision conference: Vol 15. 1988: 10–5244.
+ 
+[15] BeaudetPR.Rotationallyinvariantimageoperators[C].Proc.4thInt.JointConf. Pattern Recog, Tokyo, Japan, 1978. 1978.
+ 
+[16] Rosten E, Drummond T. Machine learning for high-speed corner detection[C]. European conference on computer vision. 2006: 430–443.
+ 
+[17] Yi K M, Trulls E, Lepetit V, et al. Lift: Learned invariant feature transform[C]. European Conference on Computer Vision. 2016: 467–483.
+ 
+[18] Matas J, Chum O, Urban M, et al. Robust wide-baseline stereo from maximally stable extremal regions[J]. Image and vision computing, 2004, 22(10): 761–767.
+ 
+[19] Moravec H P. Techniques towards automatic visual obstacle avoidance[J], 1977.
+ 
+[20] Brogefors G. Hierarchical chamfer matching: A parametric edge matching algorithm[J].IEEETransactionsonPatternAnalysis&MachineIntelligence,1988(6): 849–865.
+ 
+[21] Belongie S, Malik J, Puzicha J. Shape matching and object recognition using shapecontexts[J].IEEETransactionsonPatternAnalysis&MachineIntelligence, 2002(4): 509–522.
+ 
+[22] Mikolajczyk K, Schmid C. Indexing based on scale invariant interest points[C]. null. 2001: 525.
+ 
+[23] Radke R J, Andra S, Al-kofahi O, et al. Image change detection algorithms: a systematic survey[J]. IEEE transactions on image processing, 2005, 14(3): 294– 307.
+ 
+[24] Zheng L, Yang Y, Tian Q. SIFT meets CNN: A decade survey of instance retrieval[J]. IEEE transactions on pattern analysis and machine intelligence, 2018, 40(5): 1224–1244.
+ 
+[25] Ma J, Ma Y, Li C. Infrared and visible image fusion methods and applications: A survey[J]. Information Fusion, 2019, 45: 153–178.
+ 
+[26] Fuentes-pacheco J, Ruiz-ascencio J, Rendón-mancha J M. Visual simultaneous localization and mapping: a survey[J]. Artificial Intelligence Review, 2015, 43(1):
+ 
+[27] Fan B, Kong Q, Wang X, et al. A Performance Evaluation of Local Features for Image Based 3D Reconstruction[J]. arXiv preprint arXiv:1712.05271, 2017.
+ 
+[28] Mur-artal R, Montiel J M M, Tardos J D. ORB-SLAM: a versatile and accurate monocular SLAM system[J]. IEEE transactions on robotics, 2015, 31(5): 1147– 1163.
+ 
+[29] Mur-artalR, TardósJD.Orb-slam2: Anopen-sourceslamsystemformonocular, stereo, andrgb-dcameras[J].IEEETransactionsonRobotics, 2017, 33(5): 1255– 1262.
+ 
+[30] Hua Z, Li Y, Li J. Image stitch algorithm based on SIFT and MVSC[C]. 2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery: Vol 6. 2010: 2628–2632.
+ 
+[31] Wang C, Wang L, Liu L. Progressive mode-seeking on graphs for sparse feature matching[C]. European Conference on Computer Vision. 2014: 788–802.
+ 
+【参考文献】
+ 
+[32] SmithSM,BradyJM.SUSAN—anewapproachtolowlevelimageprocessing[J]. International journal of computer vision, 1997, 23(1): 45–78.
+ 
+[33] Rosten E, Porter R, Drummond T. Faster and better: A machine learning approach to corner detection[J]. IEEE transactions on pattern analysis and machine intelligence, 2010, 32(1): 105–119.
+ 
+[34] MairE,HagerGD,BurschkaD,etal.Adaptiveandgenericcornerdetectionbased on the accelerated segment test[C]. European conference on Computer vision. 2010: 183–196.
+ 
+[35] Rublee E, Rabaud V, Konolige K, et al. ORB: An efficient alternative to SIFT or SURF.[C]. ICCV: Vol 11. 2011: 2.
+ 
+[36] Lindeberg T. Feature detection with automatic scale selection[J]. International journal of computer vision, 1998, 30(2): 79–116.
+ 
+[37] LoweDG, others.Objectrecognitionfromlocalscale-invariantfeatures.[C].iccv: Vol 99. 1999: 1150–1157.
+ 
+[38] Lowe D G. Distinctive image features from scale-invariant keypoints[J]. International journal of computer vision, 2004, 60(2): 91–110.
+ 
+[39] Bay H, Tuytelaars T, Van gool L. Surf: Speeded up robust features[C]. European conference on computer vision. 2006: 404–417.
+ 
+[40] Morel J-M, Yu G. ASIFT: A new framework for fully affine invariant image comparison[J]. SIAM journal on imaging sciences, 2009, 2(2): 438–469.
+ 
+[41] Abdel-hakim A E, Farag A A. CSIFT: A SIFT descriptor with color invariant characteristics[C]. 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’06): Vol 2. 2006: 1978–1983.
+ 
+[42] Ke Y, Sukthankar R, others. PCA-SIFT: A more distinctive representation for local image descriptors[J]. CVPR (2), 2004, 4: 506–513.
+ 
+[43] Agrawal M, Konolige K, Blas M R. Censure: Center surround extremas for realtime feature detection and matching[C]. European Conference on Computer Vision. 2008: 102–115.
+ 
+[44] Schmid C, Mohr R, Bauckhage C. Evaluation of interest point detectors[J]. International Journal of computer vision, 2000, 37(2): 151–172.
+ 
+[45] Mukherjee D, Wu Q J, Wang G. A comparative experimental study of image feature detectors and descriptors[J]. Machine Vision and Applications, 2015, 26(4): 443–466.
+ 
+[46] Uchida Y. Local feature detectors, descriptors, and image representations: A survey[J]. arXiv preprint arXiv:1607.08368, 2016.
+ 
+[47] Krig S. Interest point detector and feature descriptor survey[G]. Computer vision metrics. [S.l.]: Springer, 2016: 187–246.
+ 
+[48] Lecun Y, Bengio Y, Hinton G. Deep learning[J]. nature, 2015, 521(7553): 436.
+ 
+[49] Choy C B, Gwak J, Savarese S, et al. Universal correspondence network[C]. Advances in Neural Information Processing Systems. 2016: 2414–2422.
+ 
+[50] Rocco I, Cimpoi M, Arandjelović R, et al. Neighbourhood consensus networks[C]. Advances in Neural Information Processing Systems. 2018: 1658–1669.
+ 
+[51] Bookstein F L. Principal warps: Thin-plate splines and the decomposition of deformations[J]. IEEE Transactions on pattern analysis and machine intelligence,1989, 11(6): 567–585.
+ 
+[52] AradN, DynN, ReisfeldD,etal.Imagewarpingbyradialbasisfunctions: Application to facial expressions[J]. CVGIP: Graphical models and image processing, 1994, 56(2): 161–172.
+ 
+[53] Chui H, Rangarajan A. A new point matching algorithm for non-rigid registration[J]. Comput. Vis. Image Understand., 2003, 89: 114–141.
+ 
+[54] Myronenko A, Song X. Point Set Registration: Coherent Point Drift[J]. IEEE Trans. Pattern Anal. Mach. Intell., 2010, 32(12): 2262–2275.
+ 
+[55] Cook D J, Holder L B. Mining graph data[M]. [S.l.]: John Wiley & Sons, 2006.
+ 
+[56] BabaiL.Groups,Graphs,Algorithms: TheGraphIsomorphismProblem[J].Proc. Internat. Congr. of Mathematicians 2018, 2018.
+ 
+[57] Yan J, Cho M, Zha H, et al. Multi-graph matching via affinity optimization with graduated consistency regularization[J]. IEEE Trans. Pattern Anal. Mach. Intell., 2016, 38(6): 1228–1242.
+ 
+[58] Yan J, Wang J, Zha H, et al. Consistency-driven alternating optimization for multigraph matching: a unified approach.[J]. IEEE Trans. Image Process., 2015, 24(3): 994–1009.
+ 
+[59] Umeyama S. An eigendecomposition approach to weighted graph matching problems[J]. IEEE transactions on pattern analysis and machine intelligence, 1988, 10(5): 695–703.
+ 
+[60] Leordeanu M, Hebert M. A Spectral Technique for Correspondence Problems Using Pairwise Constraints[C]. Proc. IEEE Int. Conf. Comput. Vis.. 2005: 1482– 1489.
+ 
+[61] Liu H, Yan S. Common Visual Pattern Discovery via Spatially Coherent Correspondence[C]. Proc. IEEE Conf. Comput. Vis. Pattern Recognit.. 2010: 1609– 1616.
+ 
+[62] SuhY,ChoM,LeeKM.Graphmatchingviasequentialmontecarlo[C].European Conference on Computer Vision. 2012: 624–637.
+ 
+[63] Cho M, Lee J, Lee K M. Reweighted random walks for graph matching[C]. European conference on Computer vision. 2010: 492–505.
+ 
+[64] CaelliT,KosinovS.Aneigenspaceprojectionclusteringmethodforinexactgraph matching[J]. IEEE transactions on pattern analysis and machine intelligence, 2004, 26(4): 515–519.
+ 
+[65] Dong J, Soatto S. Domain-size pooling in local descriptors: DSP-SIFT[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5097–5106.
+ 
+[66] Calonder M, Lepetit V, Strecha C, et al. Brief: Binary robust independent elementary features[C]. European conference on computer vision. 2010: 778–792.
+ 
+[67] Leutenegger S, Chli M, Siegwart R Y. BRISK: Binary robust invariant scalable keypoints[M]. [S.l.]: IEEE, 2011.
+ 
+[68] Alahi A, Ortiz R, Vandergheynst P. Freak: Fast retina keypoint[C]. 2012 IEEE Conference on Computer Vision and Pattern Recognition. 2012: 510–517.
+ 
+[69] Johnson A E, Hebert M. Using spin images for efficient object recognition in cluttered 3D scenes[J]. IEEE Transactions on pattern analysis and machine intelligence, 1999, 21(5): 433–449.
+ 
+[70] ZaharescuA,BoyerE,VaranasiK,etal.Surfacefeaturedetectionanddescription with applications to mesh matching[C]. Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2009. 2009: 373–380.
+ 
+[71] FischlerMA,BollesRC.Randomsampleconsensus: aparadigmformodelfitting with applications to image analysis and automated cartography[J]. Communications of the ACM, 1981, 6(6): 381–395.
+ 
+[72] Torr P H, Zisserman A. MLESAC: A New Robust Estimator with Application to Estimating Image Geometry[J]. Comput. Vis. Image Understand., 2000, 78(1): 138–156.
+ 
+[73] Chum O, Matas J. Matching with PROSAC - Progressive Sample Consensus[C]. CVPR. 2005: 220–226.
+ 
+[74] Sattler T, Leibe B, Kobbelt L. SCRAMSAC: Improving RANSAC’s efficiency with a spatial consistency filter[C]. Proc. IEEE Int. Conf. Comput. Vis.. 2009:2090–2097.
+ 
+[75] Raguram R, Chum O, Pollefeys M, et al. USAC: a universal framework for random sample consensus[J]. IEEE transactions on pattern analysis and machine intelligence, 2013, 35(8): 2022–2038.
+ 
+[76] LiX,HuZ.RejectingMismatchesbyCorrespondenceFunction[J].Int.J.Comput. Vis., 2010, 89(1): 1–17.
+ 
+[77] TikhonovAN, ArseninVI.Solutionsofill-posedproblems: Vol14[M].[S.l.]: Vh Winston, 1977.
+ 
+[78] Boyd S, Vandenberghe L. Convex optimization[M]. [S.l.]: Cambridge university press, 2004.
+ 
+[79] Ma J, Zhao J, Tian J, et al. Robust Estimation of Nonrigid Transformation for Point Set Registration[C]. CVPR. 2013: 2147–2154.
+ 
+[80] Ma J, Zhao J, Tian J, et al. Regularized vector field learning with sparse approximation for mismatch removal[J]. Pattern Recognit., 2013, 46(12): 3519–3532.
+ 
+[81] MaJ,ZhaoJ,TianJ,etal.RobustPointMatchingviaVectorFieldConsensus[J]. IEEE Trans. Image Process., 2014, 23(4): 1706–1721.
+ 
+[82] Ma J, Zhao J, Ma Y, et al. Non-rigid visible and infrared face registration via regularized Gaussian fields criterion[J]. Pattern Recognit., 2015, 48(3): 772–784.
+ 
+[83] Ma J, Qiu W, Zhao J, et al. Robust L2E Estimation of Transformation for NonRigid Registration[J]. IEEE Trans. Signal Process., 2015, 63(5): 1115–1129.
+ 
+[84] WangG, WangZ, ChenY,etal.Arobustnon-rigidpointsetregistrationmethod basedonasymmetricgaussianrepresentation[J].Comput.Vis.ImageUnderstand., 2015, 141: 67–80.
+ 
+[85] Wang G, Wang Z, Chen Y, et al. Context-Aware Gaussian Fields for Non-rigid Point Set Registration[C]. CVPR. 2016: 5811–5819.
+ 
+[86] Wang G, Zhou Q, Chen Y. Robust Non-Rigid Point Set Registration Using Spatially Constrained Gaussian Fields[J]. IEEE Trans. Image Process., 2017, 26(4): 1759–1769.
+ 
+[87] Ma J, Zhao J, Jiang J, et al. Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization[C]. Proc. AAAI Conf. Artificial Intelligence. 2017: 4218–4224.
+ 
+[88] Ma J, Zhou H, Zhao J, et al. Robust Feature Matching for Remote Sensing Image Registration via Locally Linear Transforming[J]. IEEE Trans. Geosci. Remote Sens., 2015, 53(12): 6469–6481.
+ 
+[89] Ma J, Zhao J, Guo H, et al. Locality preserving matching[C]. Proc. Int. Joint Conf. Artif. Intell.. 2017: 4492–4498.
+ 
+[90] Ma J, Jiang J, Zhou H, et al. Guided locality preserving feature matching for remote sensing image registration[J]. IEEE Trans. Geosci. Remote Sens., 2018.
+ 
+[91] BianJ, LinW-Y, MatsushitaY,etal.Gms: Grid-basedmotionstatisticsforfast, ultra-robust feature correspondence[C]. Proc. IEEE Conf. Comput. Vis. Pattern Recognit.. 2017: 2828–2837.
+ 
+[92] Lin W-Y, Wang F, Cheng M-M, et al. CODE: Coherence based decision boundariesforfeaturecorrespondence[J].IEEETrans.PatternAnal.Mach.Intell.,2018, 40(1): 34–47.
+ 
+[93] Lin W-Y, Cheng M-M, Lu J, et al. Bilateral functions for global motion modeling[C]. Proc. Eur. Conf. Comput. Vis.. 2014: 341–356.
+ 
+[94] Simo-serra E, Trulls E, Ferraz L, et al. Discriminative learning of deep convolutionalfeaturepointdescriptors[C].ProceedingsoftheIEEEInternationalConference on Computer Vision. 2015: 118–126.
+ 
+[95] Mishchuk A, Mishkin D, Radenovic F, et al. Working hard to know your neighbor’s margins: Local descriptor learning loss[C]. Advances in Neural Information Processing Systems. 2017: 4826–4837.
+ 
+[96] Wei X, Zhang Y, Gong Y, et al. Kernelized subspace pooling for deep local descriptors[C].ProceedingsoftheIEEEConferenceonComputerVisionandPattern Recognition. 2018: 1867–1875.
+ 
+[97] Ono Y, Trulls E, Fua P, et al. LF-Net: learning local features from images[C]. Advances in Neural Information Processing Systems. 2018: 6237–6247.
+ 
+[98] DetoneD,MalisiewiczT,RabinovichA.Superpoint: Self-supervised interest point detection and description[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 224–236.
+ 
+[99] Han X, Leung T, Jia Y, et al. Matchnet: Unifying feature and metric learning for patch-based matching[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3279–3286.
+ 
+[100] WangJ,ZhouF,WenS,etal.Deep metric learning with angularl oss[C].ProceedingsoftheIEEEInternationalConferenceonComputerVision.2017: 2593–2601.
+ 
+[101] Schönberger J L, Hardmeier H, Sattler T, et al. Comparative evaluation of handcrafted and learned local features[C]. Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. 2017: 6959–6968.
+ 
+[102] Tian Y, Fan B, Wu F, et al. L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space.[C]. Cvpr: Vol 1. 2017: 6.
+ 
+[103] Zbontar J, Lecun Y. Stereo matching by training a convolutional neural network to compare image patches[J]. Journal of Machine Learning Research, 2016, 17(132): 2.
+ 
+[104] Revaud J, Weinzaepfel P, Harchaoui Z, et al. Deepmatching: Hierarchical deformable dense matching[J]. International Journal of Computer Vision, 2016, 120(3): 300–323.
+ 
+[105] Menze M, Heipke C, Geiger A. Object Scene Flow[J]. ISPRS Journal of Photogrammetry and Remote Sensing (JPRS), 2018.
+ 
+[106] ScharsteinD,SzeliskiR.ATaxonomyandEvaluationofDenseTwo-FrameStereo Correspondence Algorithms[J]. International Journal of Computer Vision, 2002, 47(1-3): 7–42.
+ 
+[107] ZagoruykoS,KomodakisN.Learning to compare image patches via convolutional neural networks[C].ProceedingsoftheIEEEConferenceonComputerVisionand Pattern Recognition. 2015: 4353–4361.
+ 
+[108] AltwaijryH,TrullsE,HaysJ,etal.Learning to match aerial images with deep attentive architectures[C].ProceedingsoftheIEEEConferenceonComputerVision and Pattern Recognition. 2016: 3539–3547.
+ 
+[109] Balakrishnan G, Zhao A, Sabuncu M R, et al. An Unsupervised Learning Model for Deformable Medical Image Registration[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 9252–9260.
+ 
+[110] Jiang P, Shackleford J A. CNN Driven Sparse Multi-Level B-Spline Image Registration[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 9281–9289.
+ 
+[111] Qi C R, Su H, Mo K, et al. Pointnet: Deep learning on point sets for 3d classification and segmentation[J]. Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2017, 1(2): 4.
+ 
+[112] Deng H, Birdal T, Ilic S. Ppfnet: Global context aware local features for robust 3d point matching[J]. Computer Vision and Pattern Recognition (CVPR). IEEE, 2018, 1.
+ 
+[113] YiKM,TrullsE,OnoY,etal.LearningtoFindGoodCorrespondences[C].Proc. IEEE Conf. Comput. Vis. Pattern Recognit.. 2018: 1–9.
+ 
+[114] Luo Z, Shen T, Zhou L, et al. Geodesc: Learning local descriptors by integrating geometry constraints[C]. Proceedings of the European Conference on Computer Vision (ECCV). 2018: 168–183.
+ 
+[115] Zhao C, Cao Z, Li C, et al. NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences[J]. arXiv preprint arXiv:1904.00320, 2019.
+ 
+[116] 赵键. 点模式匹配算法研究 [D]. 国防科学技术大学, 2012.
+ 
+[117] 柳成荫. 基于点特征的多模与多视角图像非刚性配准算法研究 [D]. 华中科技大学, 2018.
+ 
+[118] Tron R, Zhou X, Esteves C, et al. Fast multi-image matching via density-based clustering[C]. Proceedings of the IEEE International Conference on Computer Vision. 2017: 4057–4066.
+ 
+[119] Maset E, Arrigoni F, Fusiello A. Practical and efficient multi-view matching[C]. Proceedings of the IEEE International Conference on Computer Vision. 2017: 4568–4576.
+ 
+[120] Hu N, Huang Q, Thibert B, et al. Distributable consistent multi-object matching[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 2463–2471.
